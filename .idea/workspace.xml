@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="defedebf-c7c8-4a25-ae5c-d4e8a0a40ca7" name="Changes" comment="" />
+    <list default="true" id="defedebf-c7c8-4a25-ae5c-d4e8a0a40ca7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +44,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/dylan/Documents/Patrones de Diseño/PracticaP1Patrones",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/dylan/Documents/Patrones de Diseño/Practice-1",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -57,13 +63,13 @@
       <recent name="ejercicio6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ejercicio6.Client">
-    <configuration name="ejercicio2.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicio2.Client" />
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio1.Client" />
       <module name="PracticaP1Patrones.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ejercicio2.*" />
+          <option name="PATTERN" value="ejercicio1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.ejercicio6.Client" />
         <item itemvalue="Application.ejercicio5.Client" />
         <item itemvalue="Application.ejercicio4.Client" />
         <item itemvalue="Application.ejercicio3.Client" />
-        <item itemvalue="Application.ejercicio2.Client" />
       </list>
     </recent_temporary>
   </component>
