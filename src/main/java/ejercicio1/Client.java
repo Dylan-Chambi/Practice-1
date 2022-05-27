@@ -17,5 +17,6 @@ public class Client {
             estudiante5.pagarSaldo( 250);
 
             Cajero.consultarSaldo();
+            Cajero.consultarSaldo();
         }
 }
